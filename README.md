@@ -12,7 +12,7 @@ The dataset on global layoffs includes key information such as the company name,
 - **Clean the data:**
 First, create a copy of the dataset to protect the original database from any potential damage. Next, address duplicate data; one effective method is to remove duplicates that do not impact our analysis. To facilitate this, a Common Table Expression (CTE) can be used to create a temporary result set, with two methods implemented in the script.
 
-The third step involves standardizing the data, which includes handling spaces in words, ensuring consistent data types, and aligning similar fields and locations. Finally, address any NULL values by utilizing available data from the dataset, or if that’s not possible, consider deleting those records.
+  The third step involves standardizing the data, which includes handling spaces in words, ensuring consistent data types, and aligning similar fields and locations. Finally, address any NULL values by utilizing available data from the dataset, or if that’s not possible, consider deleting those records.
 
 - **Explore the data:**
 In this step doing some exploratory techniques to analyze the dataset.
