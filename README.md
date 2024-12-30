@@ -1,5 +1,5 @@
 # SQL Data Cleaning and Exploratory Data Analysis
-Using the global layoffs dataset from 2020 to 2023, perform data cleaning and exploratory analysis with MySQ.
+Using the global layoffs dataset from 2020 to 2023, perform data cleaning and exploratory analysis with MySQL.
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 ## Overview 
 In recent years, the world has grappled with significant crises, including the COVID-19 pandemic and various conflicts, impacting numerous sectors. From this perspective, we will conduct a comprehensive analysis of global layoffs, focusing on data cleaning and exploration to uncover the insights hidden within the dataset.
